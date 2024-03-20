@@ -1,0 +1,13 @@
+
+.box1{
+    border: 2px dotted #101004;
+    border: visible;
+    border-radius: 2px;
+    height: 250px;
+    width:250px ;
+    box-shadow: 4px 4px 6px #cfcf1a;
+    padding: 100px;
+    float: left;
+    display: flow-root;
+    margin: 10px;
+}
